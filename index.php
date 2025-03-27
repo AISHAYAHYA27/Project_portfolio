@@ -18,30 +18,31 @@
             <a href="#apropos" class="hover:text-purple-400">Apropos</a>
             <a href="#creations" class="hover:text-purple-400">Creations</a>
             <a href="#contact" class="hover:text-purple-400">Contact</a>
+            <!-- <button class="bg-blue-500 text-white px-4 py-2 rounded animate-bounce">Me contacter</button> -->
         </div>
     </nav>
     <section id="home" class="flex flex-col items-center text-center py-16">
         <div class="w-40 h-70 mb-0 m-20  flex justify-center gap-40">
-            <img src="assets/Photo Pro 3.jpg" alt="Photo de profil">
+            <img src="../assets/PhotoPro3.jpg" alt="Photo de profil">
             <div>
                 <h2 class="text-xl mt-4">Welcome, I am</h2>
-                <h1 class="text-5xl font-bold text-purple-400">AISSATOU</h1>
+                <h1 class="text-5xl font-bold text-purple-400  rounded animate-bounce">AISSATOU</h1>
                 <p class="text-lg mt-2">Développeuse Web Full-Stack</p>
             </div>
         </div>
 
         <a href="assets/CV_Aissatou_Labbo_SOW_Design.pdf" download>
-            <img src="assets/logocv.jpg" alt="Télécharger le CV" class="w-16 h-16 cursor-pointer">
+            <img src="../assets/logocv" alt="Télécharger le CV" class="w-16 h-16 cursor-pointer">
         </a>
 
 
         <a href="https://github.com/ton-profil" target="_blank">
-            <img src="assets/github-6980894_960_720.webp" alt="GitHub" class="w-16 h-16 cursor-pointer">
+            <img src="../assets/github-6980894_960_720.webp" alt="GitHub" class="w-16 h-16 cursor-pointer">
         </a>
 
 
         <a href="www.linkedin.com/in/aissatou-labbo-sow" target="_blank">
-            <img src="assets/logo-linkedin-noir-et-blanc.webp" alt="LinkedIn" class="w-16 h-16 cursor-pointer">
+            <img src="../assets/logo-linkedin-noir-et-blanc.webp" alt="LinkedIn" class="w-16 h-16 cursor-pointer">
         </a>
     </section>
 
@@ -75,7 +76,7 @@
         <h2 class="text-3xl font-bold text-purple-400">CREATIONS</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
             <div class="bg-gray-800 p-4 rounded-lg">
-                <img src="assets/Capture d’écran 2025-03-20 à 15.16.11.png" alt="Projet 1" class="rounded-lg">
+                <img src="../assets/Capture d’écran 2025-03-20 à 15.16.11.png" alt="Projet 1" class="rounded-lg">
                 <!-- <div>
                     <img src="assets/Capture d’écran 2025-03-20 à 15.18.45.png" alt="" class="rounded-lg">
                 </div> -->
@@ -83,7 +84,7 @@
                 <h3 class="text-xl mt-4">My_cinema</h3>
             </div>
             <div class="bg-gray-800 p-4 rounded-lg">
-                <img src="assets/Capture d’écran 2025-03-20 à 15.23.25.png" alt="Projet 2" class="rounded-lg">
+                <img src="../assets/Capture d’écran 2025-03-20 à 15.23.25.png" alt="Projet 2" class="rounded-lg">
                 <!-- <img src="assets/Capture d’écran 2025-03-20 à 14.44.00.png" alt="" class="w-40 h-60 border-4"> -->
                 <!-- <img src="assets/Capture d’écran 2025-03-20 à 14.46.43.png" alt="" class="w-40 h-60 border-4"> -->
                 <h3 class="text-xl mt-4">Tweet_academie</h3>
@@ -91,7 +92,7 @@
 
 
             <div class="bg-gray-800 p-4 rounded-lg">
-                <img src="assets/Capture d’écran 2025-03-20 à 14.48.17.png" alt="Projet 3" class="rounded-lg">
+                <img src="../assets/Capture d’écran 2025-03-20 à 14.48.17.png" alt="Projet 3" class="rounded-lg">
                 <h3 class="text-xl mt-4">Maquette responsive</h3>
             </div>
         </div>
@@ -102,18 +103,18 @@
         <h1 class="text-purple-400 text-3xl font-bold">UNE REQUÊTE ?</h1>
         <h1 class=" text-3xl font-bold text-purple-400">CONTACTEZ - MOI !</h1>
         <div class="flex">
-            <a href="assets/CV_Aissatou_Labbo_SOW_Design.pdf" download>
+            <a href="../assets/CV_Aissatou_Labbo_SOW_Design.pdf" download>
                 <img src="assets/logocv.jpg" alt="Télécharger le CV" class="w-16 h-16 cursor-pointer">
             </a>
 
 
             <a href="https://github.com/ton-profil" target="_blank">
-                <img src="assets/github-6980894_960_720.webp" alt="GitHub" class="w-16 h-16 cursor-pointer">
+                <img src="../assets/github-6980894_960_720.webp" alt="GitHub" class="w-16 h-16 cursor-pointer">
             </a>
 
 
             <a href="www.linkedin.com/in/aissatou-labbo-sow" target="_blank">
-                <img src="assets/logo-linkedin-noir-et-blanc.webp" alt="LinkedIn" class="w-16 h-16 cursor-pointer">
+                <img src="../assets/logo-linkedin-noir-et-blanc.webp" alt="LinkedIn" class="w-16 h-16 cursor-pointer">
             </a>
         </div>
     </div>
